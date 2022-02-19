@@ -1,0 +1,23 @@
+.menu__links--trang-chu {
+    background: white;
+}
+
+.menu__links--trang-chu>a {
+    color: #373737;
+}
+
+.menu__links--du-ky {
+    background: #8bc34a;
+}
+
+.menu__links--du-ky>a {
+    color: white;
+}
+
+.menu__buttons--list>a:hover {
+    color: white;
+}
+
+.menu__buttons--list:hover {
+    background: #8bc34a;
+}
